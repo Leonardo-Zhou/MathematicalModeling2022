@@ -1,0 +1,10 @@
+"files.associations": {
+    "*.m": "matlab"
+    //其他关联设置在此处添加
+},
+"matlab.matlabpath": "E:\\Program Files\\Polyspace\\R2021a\\bin\\matlab.exe",
+"matlab.mlintpath": "E:\\Program Files\\Polyspace\\R2021a\\bin\\win64\\mlint.exe",
+"matlab.linterEncoding": "utf-8",
+"[matlab]": {
+    "files.encoding": "gb2312"
+},

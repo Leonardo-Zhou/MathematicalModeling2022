@@ -1,0 +1,9 @@
+                precision   recall   f1-score   support
+
+        正常       0.95      0.88      0.92      22086
+        故障       0.97      0.99      0.98      88164
+
+    accuracy                           0.97      110250
+   macro avg       0.96      0.94      0.95      110250
+weighted avg       0.97      0.97      0.97      110250
+
